@@ -1,0 +1,90 @@
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        background-image: url(back2.webp);
+        background-color: whitesmoke;
+        background-size: 100%;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    h1 {
+        color: rgb(236, 229, 15);
+        text-align: right;
+        width: 27%;
+    }
+
+    h2 {
+        text-align: right;
+        width: 22%;
+        margin: 10px;
+        color: rgb(236, 229, 15);
+    }
+
+    p {
+        border-radius: 35px;
+        float: right;
+        /* text-align: justify; */
+        background: #73AD21;
+        width: 90%;
+        padding: 25px;
+        margin: 40px;
+        font-family: open Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .e {
+        border-radius: 35px;
+        float: right;
+        /* text-align: justify; */
+        background: #73AD21;
+        width: 90%;
+        padding: 25px;
+        margin: 30px;
+        font-family: open Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .b {
+        border-radius: 35px;
+        float: right;
+        /* text-align: justify; */
+        background: #73AD21;
+        width: 90%;
+        padding: 25px;
+        margin: 30px;
+        font-family: open Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .c {
+        border-radius: 35px;
+        float: top;
+        /* text-align: justify; */
+        background: #73AD21;
+        width: 90%;
+        padding: 25px;
+        margin: 30px;
+        font-family: open Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        text-align: left;
+    }
+
+    .d {
+        text-align: right;
+        /* float: right; */
+        width: 25%;
+        margin: 10px;
+    }
+
+    .f {
+        text-align: right;
+        width: 20%;
+        margin: 10px;
+    }
